@@ -1,0 +1,5 @@
+# Ignorer les fichiers sensibles et temporaires
+*.env
+__pycache__/
+*.pyc
+.DS_Store
